@@ -1,0 +1,90 @@
+*{
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header{
+    list-style-type: none;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 0 auto; /* Center the flexbox horizontally */
+   padding: 0;
+   display: flex;
+   width: 70%
+ }
+
+ h2{
+    margin-left: 40px;
+    color: rgb(58, 58, 58);
+ }
+
+   ul{
+
+    list-style-type: none;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: auto;
+    
+}
+
+
+.cards{
+    display: flex;
+   justify-content: center;
+   margin: 10px; 
+  
+}
+
+.image1{
+    width: 100%;
+   display: flex;
+   margin: 0 auto; /* Center the flexbox horizontally */
+   padding: 0;
+
+}
+.image2{
+    width: 100%;
+   display: flex;
+   margin: 0 auto; /* Center the flexbox horizontally */
+   padding: 0;
+
+}
+.image3{
+    width: 100%;
+   display: flex;
+   margin: 0 auto; /* Center the flexbox horizontally */
+   padding: 0;
+
+}
+.image4{
+    width: 70%;
+    size: 50px;
+   display: flex;
+   margin:auto; /* Center the flexbox horizontally */
+   padding: 0;
+
+}
+p{
+    color: rgb(58, 58, 58);;
+}
+
+
+h1{
+
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+}
+html{
+    background-color:lightpink;
+}
+
+
+
+
+  
